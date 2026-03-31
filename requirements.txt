@@ -4,5 +4,5 @@ opencv-python-headless
 deepface
 vaderSentiment
 chromadb
-speech_recognition
+SpeechRecognition
 audio-recorder-streamlit
