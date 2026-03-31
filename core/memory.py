@@ -6,7 +6,8 @@ from groq import Groq
 # 🚀 INITIALIZE GROQ CLIENT
 # API Key is active for your final demo
 
-client = Groq(api_key=st.secrets["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"])
+# Change it to exactly this:
+client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 
 DB_PATH = "./data/chroma_vault"
 if not os.path.exists(DB_PATH):

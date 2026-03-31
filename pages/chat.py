@@ -12,7 +12,8 @@ import json
 
 # 🚀 INITIALIZE GROQ CLIENT
 # Replace with your actual API Key from console.groq.com
-client = Groq(api_key=st.secrets["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"])
+# Change it to exactly this:
+client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 
 def check_pending_tasks(user_id):
     if not os.path.exists("data/users.json"):
