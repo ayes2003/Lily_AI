@@ -1,0 +1,177 @@
+{
+    "ayesh": {
+        "profile": {
+            "name": "ayesh",
+            "age": 70,
+            "guardian_name": "ali",
+            "guardian_phone": "+91 8714541363",
+            "secret_icon": "\ud83c\udf38",
+            "sos": {
+                "phone": "+91 8714541363",
+                "conditions": "type 2 diabetes and high bp"
+            },
+            "diary_config": {
+                "reminder_time": "20:00",
+                "has_setup": true
+            }
+        },
+        "habits": [
+            {
+                "label": "Lily suggests: \ud83d\uddbc\ufe0f Browse your memory vault",
+                "time": "Today",
+                "priority": "High",
+                "instruction": "Let's look at some happy moments you've saved.",
+                "steps": [
+                    "Go to the 'Our Memories' page.",
+                    "Click on the '\ud83d\ude0a Great' filter.",
+                    "Read three memories that make you smile."
+                ],
+                "done": false
+            },
+            {
+                "label": "Lily suggests: \ud83d\udcde Call a dear friend",
+                "time": "Today",
+                "priority": "High",
+                "instruction": "Sharing a few words can make the world feel brighter.",
+                "steps": [
+                    "Find your phone.",
+                    "Pick a friend from your contacts.",
+                    "Say hello and chat for 5 minutes."
+                ],
+                "done": false
+            },
+            {
+                "label": "take a walk",
+                "time": "08:00",
+                "priority": "Medium",
+                "category": "Health",
+                "instruction": "None",
+                "steps": [
+                    "\"Drink a glass of water before starting.\"",
+                    "\"Eat a healthy snack to give you energy.\"",
+                    "\"Wear comfortable clothes and shoes for walking.\"",
+                    "\"Wash your hands with soap and water.\"",
+                    "\"Check that your phone is fully charged.\"",
+                    "\"Grab your bottle of water from the kitchen.\""
+                ],
+                "notes": "eat a snack before going for a walk .also drink water. take a bottle of water with you. wear comfortable clothes and shoes. dont take walk for more than 20 minutes",
+                "done": false,
+                "logs": []
+            },
+            {
+                "label": "take med",
+                "time": "12:00",
+                "priority": "Low",
+                "instruction": "take 2 pills. they are on your cupboard",
+                "done": false,
+                "steps": [
+                    "Start the task.",
+                    "Follow Lily's notes.",
+                    "Mark it as done!"
+                ]
+            },
+            {
+                "label": "cook a bread",
+                "time": "17:00",
+                "priority": "Low",
+                "instruction": "Take your time and stay safe.",
+                "done": false,
+                "steps": [
+                    "Start the task.",
+                    "Follow Lily's notes.",
+                    "Mark it as done!"
+                ]
+            },
+            {
+                "label": "have meds",
+                "time": "15:00",
+                "priority": "High",
+                "instruction": "take pills from top shelf in your cupboard",
+                "done": false,
+                "steps": [
+                    "Start the task.",
+                    "Follow Lily's notes.",
+                    "Mark it as done!"
+                ]
+            },
+            {
+                "label": "take meds",
+                "time": "09:00",
+                "priority": "High",
+                "instruction": "take the pills after food with water. they are on top shelf in your cupboard\n",
+                "done": false,
+                "steps": [
+                    "You sit down at a stable table.",
+                    "You put one pill in a glass of cold water in front of you.",
+                    "You take two more pills and add them to the glass.",
+                    "You drink all the medication after food.",
+                    "You check that all the medicine is gone."
+                ]
+            },
+            {
+                "label": "lottery",
+                "time": "01:30",
+                "priority": "Low",
+                "instruction": "Take your time and stay safe.",
+                "done": false,
+                "steps": [
+                    "Let's get started with the lottery task, ayesh. I'm here to guide you.",
+                    "Check your lottery ticket for numbers.",
+                    "Go online or visit a store to check results.",
+                    "Look up winning numbers in the lottery.",
+                    "Match your numbers against winning numbers.",
+                    "Call or email the lottery office if needed."
+                ]
+            }
+        ],
+        "created_at": "2026-03-31",
+        "wellness_history": {
+            "2026-03-31": 75,
+            "2026-04-01": 25
+        },
+        "daily_stats": {
+            "2026-03-31": {
+                "chats": 1
+            }
+        }
+    },
+    "ayesha": {
+        "profile": {
+            "name": "ayesha",
+            "age": 70,
+            "guardian_name": "ali",
+            "guardian_phone": "+91 8714541363",
+            "guardian_password": "Ali",
+            "secret_icon": "\u2615",
+            "sos": {
+                "phone": "+91 8714541363",
+                "conditions": "high bp"
+            }
+        },
+        "habits": [
+            {
+                "label": "morning walk",
+                "time": "08:00",
+                "priority": "Medium",
+                "category": "Health",
+                "instruction": "None",
+                "steps": [
+                    "Good morning, Ayesha! I'm here to support you. Let's get started with your morning walk. Here are the steps:",
+                    "Grab a light snack to give you energy for your walk.",
+                    "Head to the kitchen to fill a water bottle and drink some water first.",
+                    "Choose comfortable attire and shoes that will make your walk enjoyable.",
+                    "Take a small bottle of water with you during the 20-minute walk."
+                ],
+                "notes": "have a snack before going. also drink water and take a bootle of water with you. wear comfortable attire and shoes. dont walk for more than 20 mins\n",
+                "done": false,
+                "logs": []
+            }
+        ],
+        "created_at": "2026-03-31",
+        "wellness_history": {
+            "2026-04-01": 75
+        },
+        "daily_stats": {},
+        "memories": []
+    }
+}

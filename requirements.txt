@@ -1,0 +1,8 @@
+streamlit
+groq
+opencv-python-headless
+deepface
+vaderSentiment
+chromadb
+speech_recognition
+audio-recorder-streamlit
