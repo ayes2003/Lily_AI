@@ -2,6 +2,7 @@ import chromadb
 from datetime import datetime
 import os
 from groq import Groq
+import streamlit as st
 
 # 🚀 INITIALIZE GROQ CLIENT
 # API Key is active for your final demo
